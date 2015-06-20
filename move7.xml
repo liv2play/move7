@@ -1,5 +1,4 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="math_random" id="212" x="497" y="57"></block>
   <block type="controls_whileUntil" id="7" inline="false" x="222" y="105">
     <field name="MODE">UNTIL</field>
     <value name="NUMBER">
